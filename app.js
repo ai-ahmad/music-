@@ -1,5 +1,5 @@
 const clientId = "10ff71b2181a4ee19909431870ef03f4";
-const redirectUri = "http://localhost:3000";
+const redirectUri = "https://extraordinary-pixie-d64a9c.netlify.app";
 
 function getAccessToken() {
     // Redirect the user to the Spotify Accounts service for authentication
